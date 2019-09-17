@@ -1,0 +1,16 @@
+  wget -q http://www.cacpd.org/selected_AOGCMs/CCSM4_rcp45_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/CCSM4_rcp85_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/CNRM-CM5_rcp45_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/CNRM-CM5_rcp85_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/CanESM2_rcp45_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/CanESM2_rcp85_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/GFDL-CM3_rcp45_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/GFDL-CM3_rcp85_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/HadGEM2-ES_rcp45_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/HadGEM2-ES_rcp85_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/INM-CM4_rcp45_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/INM-CM4_rcp85_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/IPSL-CM5A-MR_rcp45_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/IPSL-CM5A-MR_rcp85_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/MPI-ESM-LR_rcp45_2085_Bioclim_netCDF.7z &
+  wget -q http://www.cacpd.org/selected_AOGCMs/MPI-ESM-LR_rcp85_2085_Bioclim_netCDF.7z &
